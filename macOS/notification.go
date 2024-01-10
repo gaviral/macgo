@@ -1,3 +1,5 @@
+// File: macOS/notification.go
+
 package macos
 
 import (
